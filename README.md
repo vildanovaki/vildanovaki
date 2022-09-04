@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kamilya, QA engineer and university student from Ulyanovsk. 
+### Hi there 👋 I'm Kamilya, QA Engineer and university student from Ulyanovsk. 
 
 <!--
 **vildanovaki/vildanovaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
