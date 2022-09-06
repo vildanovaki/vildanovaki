@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kamilya, QA Engineer and university student from Ulyanovsk :student:. 
 
 ## Contact
-:iphone: [Telegram](https://t.me/vildanovaki)
+:iphone: [Telegram](https://t.me/vildanovak)
 
 ## About me
 
