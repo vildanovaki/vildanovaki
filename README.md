@@ -1,4 +1,12 @@
-### Hi there 👋 I'm Kamilya, QA Engineer and university student from Ulyanovsk. 
+### Hi there 👋 I'm Kamilya, QA Engineer and university student from Ulyanovsk :student:. 
+
+:computer: I have experience as a manual QA for a little more than a year
+:keyboard: I have experience in product and banking projects
+:woman_office_worker: I work in the Ulyanovsk company - Simbirsoft
+:woman_student: I have a higher education in applied computer science
+
+## What I do
+:desktop_computer: Web Automation
 
 <!--
 **vildanovaki/vildanovaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
