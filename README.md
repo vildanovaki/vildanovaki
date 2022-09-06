@@ -29,6 +29,8 @@
 
 ___
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vildanovaki&repo=github-readme-stats&show_icons=true&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vildanovaki&show_icons=true&theme=radical" />
 <!--
 **vildanovaki/vildanovaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
