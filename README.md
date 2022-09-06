@@ -27,9 +27,8 @@
 :dart: [Автотесты для интернет-магазина "Sela"](https://github.com/vildanovaki/sela-tests)
 :dart: [Автотесты для электронной библиотеки "Литрес"](https://github.com/vildanovaki/litres-selenium-tests)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vildanovaki&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="vildanovaki" /></p>
 ___
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vildanovaki&repo=github-readme-stats" />
 <!--
 **vildanovaki/vildanovaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
