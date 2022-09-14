@@ -24,7 +24,7 @@
 | <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" width="40" height="40"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" width="40" height="40"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="40" height="40"> | <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="40" height="40"> |  <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="40" height="40"> |
 
 ## My project
-- :dart: [Автотесты для интернет-магазина "Sela"](https://github.com/vildanovaki/sela-tests)
+- :dart: [Автотесты для интернет-магазина sela.ru](https://github.com/vildanovaki/sela-tests)
 - :dart: [Автотесты для электронной библиотеки "Литрес"](https://github.com/vildanovaki/litres-selenium-tests)
 
 ___
